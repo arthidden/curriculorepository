@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: black;
+    color: white;
+  }
+  
+  h1 {
+    color: orange;
+    font-size: 24px;
+  }
+  
+  h2 {
+    color: orange;
+    font-size: 18px;
+  }
+  
+  p {
+    color: white;
+    font-size: 16px;
+  }
+  
+  ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: none;
+    border-top: 1px solid orange;
+  }
+  
